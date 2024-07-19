@@ -1,0 +1,40 @@
+C:\Users\Muaz\source\repos\ComputerInfoApp\ComputerInfoApp\bin\Debug\ComputerInfoApp.exe.config
+C:\Users\Muaz\source\repos\ComputerInfoApp\ComputerInfoApp\bin\Debug\ComputerInfoApp.exe
+C:\Users\Muaz\source\repos\ComputerInfoApp\ComputerInfoApp\bin\Debug\ComputerInfoApp.pdb
+C:\Users\Muaz\source\repos\ComputerInfoApp\ComputerInfoApp\bin\Debug\System.Buffers.dll
+C:\Users\Muaz\source\repos\ComputerInfoApp\ComputerInfoApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Muaz\source\repos\ComputerInfoApp\ComputerInfoApp\bin\Debug\System.Memory.dll
+C:\Users\Muaz\source\repos\ComputerInfoApp\ComputerInfoApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Muaz\source\repos\ComputerInfoApp\ComputerInfoApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Muaz\source\repos\ComputerInfoApp\ComputerInfoApp\bin\Debug\System.Buffers.xml
+C:\Users\Muaz\source\repos\ComputerInfoApp\ComputerInfoApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Muaz\source\repos\ComputerInfoApp\ComputerInfoApp\bin\Debug\System.Memory.xml
+C:\Users\Muaz\source\repos\ComputerInfoApp\ComputerInfoApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Muaz\source\repos\ComputerInfoApp\ComputerInfoApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Muaz\source\repos\ComputerInfoApp\ComputerInfoApp\obj\Debug\ComputerInfoApp.csproj.AssemblyReference.cache
+C:\Users\Muaz\source\repos\ComputerInfoApp\ComputerInfoApp\obj\Debug\ComputerInfoApp.Properties.Resources.resources
+C:\Users\Muaz\source\repos\ComputerInfoApp\ComputerInfoApp\obj\Debug\ComputerInfoApp.csproj.GenerateResource.cache
+C:\Users\Muaz\source\repos\ComputerInfoApp\ComputerInfoApp\obj\Debug\ComputerInfoApp.csproj.CoreCompileInputs.cache
+C:\Users\Muaz\source\repos\ComputerInfoApp\ComputerInfoApp\obj\Debug\ComputerInfoApp.csproj.CopyComplete
+C:\Users\Muaz\source\repos\ComputerInfoApp\ComputerInfoApp\obj\Debug\ComputerInfoApp.exe
+C:\Users\Muaz\source\repos\ComputerInfoApp\ComputerInfoApp\obj\Debug\ComputerInfoApp.pdb
+X:\ПГУ\Лабы 6 -семестр21VA1\Практика\ComputerInfoApp\ComputerInfoApp\bin\Debug\ComputerInfoApp.exe.config
+X:\ПГУ\Лабы 6 -семестр21VA1\Практика\ComputerInfoApp\ComputerInfoApp\bin\Debug\ComputerInfoApp.exe
+X:\ПГУ\Лабы 6 -семестр21VA1\Практика\ComputerInfoApp\ComputerInfoApp\bin\Debug\ComputerInfoApp.pdb
+X:\ПГУ\Лабы 6 -семестр21VA1\Практика\ComputerInfoApp\ComputerInfoApp\bin\Debug\System.Buffers.dll
+X:\ПГУ\Лабы 6 -семестр21VA1\Практика\ComputerInfoApp\ComputerInfoApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+X:\ПГУ\Лабы 6 -семестр21VA1\Практика\ComputerInfoApp\ComputerInfoApp\bin\Debug\System.Memory.dll
+X:\ПГУ\Лабы 6 -семестр21VA1\Практика\ComputerInfoApp\ComputerInfoApp\bin\Debug\System.Numerics.Vectors.dll
+X:\ПГУ\Лабы 6 -семестр21VA1\Практика\ComputerInfoApp\ComputerInfoApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+X:\ПГУ\Лабы 6 -семестр21VA1\Практика\ComputerInfoApp\ComputerInfoApp\bin\Debug\System.Buffers.xml
+X:\ПГУ\Лабы 6 -семестр21VA1\Практика\ComputerInfoApp\ComputerInfoApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+X:\ПГУ\Лабы 6 -семестр21VA1\Практика\ComputerInfoApp\ComputerInfoApp\bin\Debug\System.Memory.xml
+X:\ПГУ\Лабы 6 -семестр21VA1\Практика\ComputerInfoApp\ComputerInfoApp\bin\Debug\System.Numerics.Vectors.xml
+X:\ПГУ\Лабы 6 -семестр21VA1\Практика\ComputerInfoApp\ComputerInfoApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+X:\ПГУ\Лабы 6 -семестр21VA1\Практика\ComputerInfoApp\ComputerInfoApp\obj\Debug\ComputerInfoApp.csproj.AssemblyReference.cache
+X:\ПГУ\Лабы 6 -семестр21VA1\Практика\ComputerInfoApp\ComputerInfoApp\obj\Debug\ComputerInfoApp.Properties.Resources.resources
+X:\ПГУ\Лабы 6 -семестр21VA1\Практика\ComputerInfoApp\ComputerInfoApp\obj\Debug\ComputerInfoApp.csproj.GenerateResource.cache
+X:\ПГУ\Лабы 6 -семестр21VA1\Практика\ComputerInfoApp\ComputerInfoApp\obj\Debug\ComputerInfoApp.csproj.CoreCompileInputs.cache
+X:\ПГУ\Лабы 6 -семестр21VA1\Практика\ComputerInfoApp\ComputerInfoApp\obj\Debug\Computer.FC2C45E7.Up2Date
+X:\ПГУ\Лабы 6 -семестр21VA1\Практика\ComputerInfoApp\ComputerInfoApp\obj\Debug\ComputerInfoApp.exe
+X:\ПГУ\Лабы 6 -семестр21VA1\Практика\ComputerInfoApp\ComputerInfoApp\obj\Debug\ComputerInfoApp.pdb
